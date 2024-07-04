@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, Khizar Here</h1>
-<h4 align="center">A Cyber Security Enthusiast, Hardware Security Researcher, , CTF Player</h4>
+<h4 align="center">A Cyber Security Enthusiast, Hardware Security Researcher and a CTF Player</h4>
 
-<div align="center">
-  <h1>Certifications<h1>
-  <img src="assets/python-google.png" alt="Python" width="150">
-  <img src="assets/cybersecurity.png" alt="Cyber" width="150">
-  <img src="assets/Cpp.png" alt="Cpluscplus" width="150">
-  <img src="assets/IBM.png" alt="Networking" width="150">
-  <img src="assets/bash.png" alt="Bash" width="150">
-</div>
+
 
 <h2 align="center">Skills 👨🏻‍🔬</h2>
 <br/>
@@ -19,7 +12,7 @@
 
 <div align="center">
   <h1>Tryhackme</h1>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/President..png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/eros13.png" alt="TryHackMe">
 </div>
 
 
