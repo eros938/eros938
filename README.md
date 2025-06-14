@@ -99,7 +99,12 @@
 </div>
 
 ---
+<div align="center">
+  <h1>Tryhackme</h1>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/President..png" alt="TryHackMe">
+</div>
 
+---
 ## 🔗 Contact Me
 
 <div align="center">
