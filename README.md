@@ -20,12 +20,10 @@
 
 - 👨‍💻 I’m a Hardware & Embedded Systems Penetration Tester at HIRG (HIRG.online)
 - 🛠️ Co-lead of CTF team @ Air University Cyber Security Society (AUCSS)
-- 🧠 I love reversing malware and breaking things to understand how they work
+- 🧠 I love reversing and breaking things to understand how they work
 - 🛰️ Interested in IoT, Network Protocols, Firmware Analysis, CAN Bus, and Blockchain
 - 📚 Skilled in C, C++, Python, ARM Assembly, LaTeX, and React Native
-- 🔍 Currently exploring microcontainer runtimes for ESP32 (μDock)
-- 🧰 Experienced with tools like Ghidra, Cutter, JTAGulator, GDB, Wireshark, Docker, CANalyzer, Firmadyne, etc.
-- 🏁 CTF Achievements: Top 5 @ Airange (solo), Top 10 @ Ignite & MCS (Team Hashash)
+  
 
 ---
 
@@ -48,6 +46,15 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eros938&style=plastic&color=blueviolet" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/eros938/eros938/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+</p>
+
 
 ## 📊 GitHub Stats
 
