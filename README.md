@@ -49,16 +49,6 @@
 
 ---
 
-## 🔧 Tools & Platforms
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,androidstudio,intellij,linux,ubuntu,firebase,postman,figma,xd,gdb,wireshark,firmadyne&perline=8" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
