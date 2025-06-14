@@ -115,8 +115,8 @@
 <a href="https://github.com/eros938"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
+
 
 ---
 
-<h6 align="center">👇🏻 Checkout the CTFs and Tools I’ve worked on below 👇🏻</h6>
+
