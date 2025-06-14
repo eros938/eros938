@@ -29,11 +29,21 @@
 
 ---
 
-## 💻 Technologies & Frameworks
+## 🧠 Programming Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,java,html,css,js,php,dart,flutter,laravel,react,tensorflow,keras,numpy,pandas,scikit-learn,matplotlib,opengl,threejs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,latex,react,assembly&perline=6" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,azure,arduino,vscode,postman,gdb,wireshark&perline=6" />
   </a>
 </p>
 
