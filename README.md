@@ -18,10 +18,10 @@
 
 ---
 
-- 👨‍💻 I’m a Hardware & Embedded Systems Penetration Tester at HIRG (HIRG.online)
+- 👨‍💻 I’m a Securirty Engineer @ Shellvoide
 - 🛠️ Co-lead of CTF team @ Air University Cyber Security Society (AUCSS)
 - 🧠 I love reversing and breaking things to understand how they work
-- 🛰️ Interested in IoT, Network Protocols, Firmware Analysis, CAN Bus, and Blockchain
+- 🛰️ Interested in RedTeaming, Web Application Pentest,Cloud Pentest, and Blockchain
 - 📚 Skilled in C, C++, Python, ARM Assembly, LaTeX, and React Native
   
 
