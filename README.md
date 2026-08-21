@@ -39,11 +39,28 @@
 
 ## 🎓 Certifications
 
-<p align="center">
-  <img alt="CPENT" src="https://img.shields.io/badge/C%7CPENT-EC--Council-red?style=for-the-badge" />
-  <img alt="CRTA" src="https://img.shields.io/badge/CRTA-CyberWarFare%20Labs-informational?style=for-the-badge" />
-  <img alt="CAP" src="https://img.shields.io/badge/CAP-The%20SecOps%20Group-blueviolet?style=for-the-badge" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.eccouncil.org/train-certify/certified-penetration-testing-professional-cpent/">
+        <img src="https://raw.githubusercontent.com/eros938/eros938/main/assets/certs/cpent.png" height="120" alt="C|PENT — Certified Penetration Testing Professional" />
+      </a>
+      <br /><sub><b>C|PENT</b><br />EC-Council</sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://cyberwarfare.live/product/red-team-analyst-crta/">
+        <img src="https://raw.githubusercontent.com/eros938/eros938/main/assets/certs/crta.png" height="120" alt="CRTA — Certified Red Team Analyst" />
+      </a>
+      <br /><sub><b>CRTA</b><br />CyberWarFare Labs</sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://pentestingexams.com/certifications/essentials/certified-application-security-practitioner/">
+        <img src="https://raw.githubusercontent.com/eros938/eros938/main/assets/certs/cap.png" height="120" alt="CAP — Certified AppSec Practitioner" />
+      </a>
+      <br /><sub><b>CAP</b><br />The SecOps Group</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
