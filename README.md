@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Khizar Ali Shah a.k.a eros.
+  Hi, I'm Khizar Ali Shah a.k.a eros98.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
