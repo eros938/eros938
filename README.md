@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hardware%20Pentester%20%7C%20Cybersecurity%20Researcher;CTF%20Player%20%7C%20Embedded%20Security%20Enthusiast;Reverse%20Engineer%20%7C%20IoT%20&%20Automotive%20Security;Open%20to%20Collaboration%20and%20Mentorship;Let's%20build%20together!&font=Fira%20Code&center=true&width=550&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Penetration+Tester+%7C+Security+Engineer;Web+%7C+API+%7C+Network+%7C+Cloud+(AWS)+Security;2x+Published+CVE+Author+%7C+11+Disclosures+Pending;Black+Hat+MEA+Finalist+%7C+HTB+Top+6+Pakistan;C%7CPENT+%C2%B7+CRTA+%C2%B7+CAP+Certified&font=Fira%20Code&center=true&width=550&height=45"></a>
 </p>
 
 <p align="center">
@@ -18,31 +18,77 @@
 
 ---
 
-- 👨‍💻 I’m a Securirty Engineer @ Shellvoide
-- 🛠️ Co-lead of CTF team @ Air University Cyber Security Society (AUCSS)
-- 🧠 I love reversing and breaking things to understand how they work
-- 🛰️ Interested in RedTeaming, Web Application Pentest,Cloud Pentest, and Blockchain
-- 📚 Skilled in C, C++, Python, ARM Assembly, LaTeX, and React Native
-  
+- 🛡️ Security Engineer @ **Shellvoide** — offensive security across web, API, network & cloud (AWS)
+- 🎯 CTF co-lead @ **Air University Cyber Security Society (AUCSS)** — 3rd nationally, Top 100 globally
+- 🔎 Active vulnerability researcher — **2 published CVEs** (`CVE-2026-52767`, `CVE-2026-52762`) + **11 accepted disclosures** awaiting assignment
+- 📄 Published researcher — *Threat Modeling and Attacks on Digital Twins of Vehicles* (Smart Cities, MDPI)
+- 🏆 **Black Hat MEA Finalist** · **HTB Top 6 in Pakistan** · Air Range Solo Champion
+- 🎓 B.S. Cyber Security @ Air University, Islamabad (Expected 2027) — C|PENT · CRTA · CAP certified
 
 ---
 
-## 🧠 Programming Languages
+## 🧾 CVEs & Disclosures
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,latex,react,assembly&perline=6" />
-  </a>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-52767"><img alt="CVE-2026-52767" src="https://img.shields.io/badge/CVE--2026--52767-Published-critical?style=for-the-badge&logo=commonworkflowlanguage&logoColor=white" /></a>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-52762"><img alt="CVE-2026-52762" src="https://img.shields.io/badge/CVE--2026--52762-Published-critical?style=for-the-badge&logo=commonworkflowlanguage&logoColor=white" /></a>
+  <img alt="Pending disclosures" src="https://img.shields.io/badge/11%20Disclosures-Awaiting%20CVE-orange?style=for-the-badge" />
 </p>
 
 ---
+
+## 🎓 Certifications
+
+<p align="center">
+  <img alt="CPENT" src="https://img.shields.io/badge/C%7CPENT-EC--Council-red?style=for-the-badge" />
+  <img alt="CRTA" src="https://img.shields.io/badge/CRTA-CyberWarFare%20Labs-informational?style=for-the-badge" />
+  <img alt="CAP" src="https://img.shields.io/badge/CAP-The%20SecOps%20Group-blueviolet?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 Languages & Scripting
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,bash,powershell&perline=6" />
+  </a>
+</p>
 
 ## 🛠️ Tools & Platforms
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,azure,arduino,vscode,postman,gdb,wireshark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,aws,docker,git,github,vscode,postman&perline=8" />
   </a>
+</p>
+
+<p align="center">
+  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite%20Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img alt="Nessus" src="https://img.shields.io/badge/Nessus-00A99D?style=flat-square" />
+  <img alt="SQLMap" src="https://img.shields.io/badge/SQLMap-CC0000?style=flat-square" />
+  <img alt="BloodHound" src="https://img.shields.io/badge/BloodHound-8B0000?style=flat-square" />
+  <img alt="Impacket" src="https://img.shields.io/badge/Impacket-2C3E50?style=flat-square" />
+  <img alt="Nuclei" src="https://img.shields.io/badge/Nuclei-1F8ACB?style=flat-square" />
+  <img alt="Gobuster" src="https://img.shields.io/badge/Gobuster-5D6D7E?style=flat-square" />
+</p>
+
+---
+
+## 🎯 What I Do
+
+<p align="center">
+  <img alt="Web App Pentesting" src="https://img.shields.io/badge/Web%20App%20Pentesting-1E2B3C?style=flat-square" />
+  <img alt="API Security" src="https://img.shields.io/badge/API%20Security%20Testing-1E2B3C?style=flat-square" />
+  <img alt="Network Pentesting" src="https://img.shields.io/badge/Network%20Pentesting-1E2B3C?style=flat-square" />
+  <img alt="Cloud Security" src="https://img.shields.io/badge/Cloud%20Security%20(AWS)-1E2B3C?style=flat-square" />
+  <img alt="Red Teaming" src="https://img.shields.io/badge/Red%20Teaming-1E2B3C?style=flat-square" />
+  <img alt="OSINT" src="https://img.shields.io/badge/OSINT-1E2B3C?style=flat-square" />
+  <img alt="OWASP Top 10" src="https://img.shields.io/badge/OWASP%20Top%2010-1E2B3C?style=flat-square" />
+  <img alt="MITRE ATT&CK" src="https://img.shields.io/badge/MITRE%20ATT%26CK-1E2B3C?style=flat-square" />
 </p>
 
 ---
@@ -102,12 +148,11 @@
 ## 🔗 Contact Me
 
 <div align="center">
-<a href="mail to:khizaralishah938@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:khizarbaacha@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/khizar-ali-shah-410214233/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://eros-98.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://t.me/eros938"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://github.com/eros938"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 ---
-
-
