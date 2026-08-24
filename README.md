@@ -19,7 +19,6 @@
 ---
 
 - 🛡️ Security Engineer @ **Shellvoide** — offensive security across web, API, network & cloud (AWS)
-- 🎯 CTF co-lead @ **Air University Cyber Security Society (AUCSS)** — 3rd nationally, Top 100 globally
 - 🔎 Active vulnerability researcher — **2 published CVEs** (`CVE-2026-52767`, `CVE-2026-52762`) + **11 accepted disclosures** awaiting assignment
 - 📄 Published researcher — *Threat Modeling and Attacks on Digital Twins of Vehicles* (Smart Cities, MDPI)
 - 🏆 **Black Hat MEA Finalist** · **HTB Top 6 in Pakistan** · Air Range Solo Champion
