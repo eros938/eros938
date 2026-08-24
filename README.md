@@ -43,7 +43,7 @@
   <tr>
     <td align="center" width="200">
       <a href="https://www.eccouncil.org/train-certify/certified-penetration-testing-professional-cpent/">
-        <img src="https://raw.githubusercontent.com/eros938/eros938/main/assets/certs/cpent.png" height="120" alt="C|PENT — Certified Penetration Testing Professional" />
+        <img src="https://raw.githubusercontent.com/eros938/eros938/main/assets/certs/cpent-shield.png" height="120" alt="C|PENT — Certified Penetration Testing Professional" />
       </a>
       <br /><sub><b>C|PENT</b><br />EC-Council</sub>
     </td>
