@@ -48,7 +48,7 @@
     </td>
     <td align="center" width="200">
       <a href="https://cyberwarfare.live/product/red-team-analyst-crta/">
-        <img src="https://raw.githubusercontent.com/eros938/eros938/main/assets/certs/crta.png" height="120" alt="CRTA — Certified Red Team Analyst" />
+        <img src="https://raw.githubusercontent.com/eros938/eros938/main/assets/certs/crta-badge.png" height="120" alt="CRTA — Certified Red Team Analyst" />
       </a>
       <br /><sub><b>CRTA</b><br />CyberWarFare Labs</sub>
     </td>
