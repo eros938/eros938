@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Penetration+Tester+%7C+Security+Engineer;Web+%7C+API+%7C+Network+%7C+Cloud+(AWS)+Security;2x+Published+CVE+Author+%7C+11+Disclosures+Pending;Black+Hat+MEA+Finalist+%7C+HTB+Top+6+Pakistan;C%7CPENT+%C2%B7+CRTA+%C2%B7+CAP+Certified&font=Fira%20Code&center=true&width=550&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Penetration+Tester+%7C+Security+Engineer;Web+%7C+API+%7C+Network+%7C+Cloud+(AWS)+Security;2x+Published+CVE+Author+%7C+11+Disclosures+Pending;Black+Hat+MEA+Finalist+%7C+HTB+Top+6+Pakistan;C%7CPENT+%C2%B7+CRTA+%C2%B7+CAP+Certified&font=Fira%20Code&center=true&width=550&height=45"></a>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
   <tr>
     <td align="center" width="200">
       <a href="https://www.eccouncil.org/train-certify/certified-penetration-testing-professional-cpent/">
-        <img src="https://raw.githubusercontent.com/eros938/eros938/main/assets/certs/cpent-shield.png" height="120" alt="C|PENT — Certified Penetration Testing Professional" />
+        <img src="https://raw.githubusercontent.com/eros938/eros938/main/assets/certs/cpent-shield-v2.png" height="120" alt="C|PENT — Certified Penetration Testing Professional" />
       </a>
       <br /><sub><b>C|PENT</b><br />EC-Council</sub>
     </td>
@@ -114,7 +114,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/eros938/eros938/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eros938/eros938/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eros938/eros938/output/github-contribution-grid-snake.svg" />
+    <img alt="eros938's contribution snake animation" src="https://raw.githubusercontent.com/eros938/eros938/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 
@@ -134,15 +138,9 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eros938&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eros938&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 📈 Contribution Graph
-
-[![Khizar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eros938&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -154,13 +152,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eros938&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4" />
-</div>
-
----
 ## 🔗 Contact Me
 
 <div align="center">
