@@ -19,7 +19,7 @@
 ---
 
 - 🛡️ Security Engineer @ **Shellvoide** — offensive security across web, API, network & cloud (AWS)
-- 🔎 Active vulnerability researcher — **2 published CVEs** (`CVE-2026-52767`, `CVE-2026-52762`) + **11 accepted disclosures** awaiting assignment
+- 🔎 Active vulnerability researcher — **7 published CVEs** (`CVE-2026-52767`, `CVE-2026-52762`) + **11 accepted disclosures** awaiting assignment
 - 📄 Published researcher — *Threat Modeling and Attacks on Digital Twins of Vehicles* (Smart Cities, MDPI)
 - 🏆 **Black Hat MEA Finalist** · **HTB Top 6 in Pakistan** · Air Range Solo Champion
 - 🎓 B.S. Cyber Security @ Air University, Islamabad (Expected 2027) — C|PENT · CRTA · CAP certified
