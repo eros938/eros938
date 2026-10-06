@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Penetration+Tester+%7C+Security+Engineer;Web+%7C+API+%7C+Network+%7C+Cloud+(AWS)+Security;2x+Published+CVE+Author+%7C+11+Disclosures+Pending;Black+Hat+MEA+Finalist+%7C+HTB+Top+6+Pakistan;C%7CPENT+%C2%B7+CRTA+%C2%B7+CAP+Certified&font=Fira%20Code&center=true&width=550&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Penetration+Tester+%7C+Security+Engineer;Web+%7C+API+%7C+Network+%7C+Cloud+(AWS)+Security;7x+Published+CVE+Author+%7C+11+Disclosures+Pending;Black+Hat+MEA+Finalist+%7C+HTB+Top+6+Pakistan;C%7CPENT+%C2%B7+CRTA+%C2%B7+CAP+Certified&font=Fira%20Code&center=true&width=550&height=45"></a>
 </p>
 
 <p align="center">
